@@ -1,4 +1,6 @@
+bokeh
 dateparser
+jupytext
 matplotlib
 pandas
 seaborn
